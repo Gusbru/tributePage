@@ -1,0 +1,13 @@
+#main_framework {
+    background-color: cornsilk;
+    margin: 40px;
+}
+
+#main_photo {
+    background-color: white;
+}
+
+.center_framework {
+    margin-left: 25%;
+    margin-right: 25%;
+}
